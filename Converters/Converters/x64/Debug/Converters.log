@@ -1,0 +1,4 @@
+﻿  Converters.cpp
+C:\Users\Dalto\Desktop\Programming\Projects\Converters\Converters\Converters.cpp(23,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dalto\Desktop\Programming\Projects\Converters\Converters\Converters.cpp(37,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Converters.vcxproj -> C:\Users\Dalto\Desktop\Programming\Projects\Converters\x64\Debug\Converters.exe
